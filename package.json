@@ -1,0 +1,23 @@
+{
+  "name": "fleck-js",
+  "version": "1.1.1",
+  "description": "fleck-js is a collection of javascript functions and utilities to help developers code faster, bigger and better apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "basic validation",
+    "frontend validation library",
+    "javascript library",
+    "basic formatting",
+    "js format library",
+    "javascript utilities"
+  ],
+  "author": "LEPT",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lept-github/fleck-js.git"
+  }
+}
