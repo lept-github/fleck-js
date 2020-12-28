@@ -1,6 +1,6 @@
 {
   "name": "fleck-js",
-  "version": "1.1.1",
+  "version": "1.1.4",
   "description": "fleck-js is a collection of javascript functions and utilities to help developers code faster, bigger and better apps.",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,7 @@
     "frontend validation library",
     "javascript library",
     "basic formatting",
-    "js format library",
-    "javascript utilities"
+    "js format library"
   ],
   "author": "LEPT",
   "license": "ISC",
